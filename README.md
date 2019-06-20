@@ -4,7 +4,7 @@
 
 ## Project: Data Modeling with Apache Cassandra
 
-## [Blog Version]()
+## [Blog Version](https://medium.com/@sanjeevai/data-modeling-with-apache-cassandra-9a2ffd38b48d)
 
 ## Table of Contents
 
