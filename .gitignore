@@ -1,0 +1,11 @@
+# Icon
+Icon?
+
+# ipynb checkpoints
+.ipynb_checkpoints/
+
+# python cache
+__pycache__/
+
+# vscode pref
+.vscode/
